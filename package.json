@@ -1,0 +1,19 @@
+{
+  "name": "tc-ittest",
+  "version": "1.0.0",
+  "description": "prueba para Cargo Semi senior Node",
+  "main": "carlos-yonusg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyonusg/tcitTest.git"
+  },
+  "author": "Carlos Yonusg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyonusg/tcitTest/issues"
+  },
+  "homepage": "https://github.com/cyonusg/tcitTest#readme"
+}
